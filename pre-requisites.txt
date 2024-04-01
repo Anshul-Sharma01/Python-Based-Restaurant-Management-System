@@ -1,0 +1,6 @@
+MODULE NEEDED---------> Tabulate,csv,datetime
+FILES NEEDED---------->(1)efood.csv
+                       (2)offerfood.csv
+                       (3)Recommendations.csv
+
+#NOTE:-- The required csv files have been added along with the hotfoodparadise(MAIN PROGRAM CODE) in a rar file.
